@@ -1,4 +1,6 @@
-### Hi there 👋
+## Opa, tudo tranquilo? 👋
+
+Muito prazer, meu nome é Matheus Kaffka e eu sou Desenvolvedor Web Full Stack formado pela @betrybe! Sou formado como técnico em informática e trabalhei cerca de 03 anos na área. Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020). Desde então, tive experiência com criação de landing pages em WordPress, gestão de e-commerce e hoje meu foco é exclusivamente no desenvolvimento de software.
 
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
