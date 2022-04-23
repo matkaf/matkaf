@@ -13,7 +13,9 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 ### Conhecimentos técnicos:
 
 🔭 Falando sobre linguagens de programação, meu foco é Javascript e Typescript;
+
 ⭐ Tento sempre escrever códigos limpos e de fácil entendimento, com HTML semântico e nomes de variáveis que façam sentido no contexto;
+
 🌱 Atualmente estou aprendendo mais sobre Programação Orientada a Objetos;
 
 #### Front-end:
@@ -24,6 +26,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
   - ContextAPI;
   - Consumo de API com fetch e axios;
   - React Router.
+
 #### Back-end:
 - Node.js;
 - Express;
