@@ -1,6 +1,6 @@
 ## Opa, tudo tranquilo? 👋
 
-Muito prazer, meu nome é Matheus Kaffka e eu sou Desenvolvedor Web Full Stack em formação pela ![@betrybe](https://github.com/betrybe)! Sou formado como técnico em informática e trabalhei cerca de 03 anos na área. Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020), desde então, voltei completamente pro mundo da tecnologia/internet. Tive experiência com criação de landing pages em WordPress, gestão de e-commerce e hoje meu foco é exclusivamente no desenvolvimento de software.
+Muito prazer, meu nome é Matheus Kaffka e eu sou Desenvolvedor Web Full Stack em formação pela [@betrybe](https://github.com/betrybe)! Sou formado como técnico em informática e trabalhei cerca de 03 anos na área. Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020), desde então, voltei completamente pro mundo da tecnologia/internet. Tive experiência com criação de landing pages em WordPress, gestão de e-commerce e hoje meu foco é exclusivamente no desenvolvimento de software.
 
 Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e pensar nas soluções, o que acredito ser o que me faz gostar tanto de programação. Estou aberto a oportunidades de trabalho e, se for o caso, você pode me encontrar pelos links aqui embaixo:
 
