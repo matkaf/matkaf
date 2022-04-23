@@ -10,7 +10,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 
 ---
 
-### Conhecimentos técnicos:
+## Conhecimentos técnicos:
 
 - 🔭 Falando sobre linguagens de programação, meu foco é Javascript e Typescript;
 
@@ -18,7 +18,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 
 - 🌱 Atualmente estou aprendendo mais sobre Programação Orientada a Objetos;
 
-#### Front-end:
+#### Principais conhecimentos de Front-end:
 ```
 - HTML e CSS;
 - **React**:
@@ -29,7 +29,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
   - React Router.
 ```
 
-#### Back-end:
+#### Principais conhecimentos de Back-end:
 ```
 - Node.js;
 - Express;
