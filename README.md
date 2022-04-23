@@ -8,20 +8,21 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 <a href="mailto:matheus.kaffka@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://wa.me/5555999552319">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
-<section>
 ### Conhecimentos ténicos:
 - Falando sobre linguagens de programação, meu foco é Javascript e Typescript, e atualmente estou aprendendo mais sobre Programação Orientada a Objetos;
 - Tento sempre escrever códigos limpos e de fácil entendimento, com HTML semântico e nomes de variáveis que façam sentido no contexto;
-</section>
 
-<section>
+<div>
 **Front-End**:
 - Falar sobre front;
 - Front 2;
+</div>
+
+<div>
 **Back-end**:
 - Falar sobre back;
 - Back 2;
-</section>
+</div>
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
