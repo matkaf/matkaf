@@ -12,13 +12,14 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 
 ### Conhecimentos técnicos:
 
-🔭 Falando sobre linguagens de programação, meu foco é Javascript e Typescript;
+- 🔭 Falando sobre linguagens de programação, meu foco é Javascript e Typescript;
 
-⭐ Tento sempre escrever códigos limpos e de fácil entendimento, com HTML semântico e nomes de variáveis que façam sentido no contexto;
+- ⭐ Tento sempre escrever códigos limpos e de fácil entendimento, com HTML semântico e nomes de variáveis que façam sentido no contexto;
 
-🌱 Atualmente estou aprendendo mais sobre Programação Orientada a Objetos;
+- 🌱 Atualmente estou aprendendo mais sobre Programação Orientada a Objetos;
 
 #### Front-end:
+```
 - HTML e CSS;
 - **React**:
   - Ciclo de vida dos componentes;
@@ -26,15 +27,17 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
   - ContextAPI;
   - Consumo de API com fetch e axios;
   - React Router.
+```
 
 #### Back-end:
+```
 - Node.js;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
 - API's REST;
 - Padrão MSC;
 - Autenticação JWT
-
+```
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
