@@ -7,7 +7,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 <a href="https://www.linkedin.com/in/matheus-kaffka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:matheus.kaffka@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://wa.me/5555999552319">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-
+---
 ### Conhecimentos ténicos:
 - Falando sobre linguagens de programação, meu foco é Javascript e Typescript, e atualmente estou aprendendo mais sobre Programação Orientada a Objetos;
 - Tento sempre escrever códigos limpos e de fácil entendimento, com HTML semântico e nomes de variáveis que façam sentido no contexto;
@@ -17,7 +17,6 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 - Falar sobre front;
 - Front 2;
 </div>
-
 <div>
 **Back-end**:
 - Falar sobre back;
