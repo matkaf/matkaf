@@ -4,7 +4,7 @@ Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack
 
 Sou formado como técnico em informática e trabalhei cerca de 03 anos na área. Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020). Desde então, voltei completamente pro mundo da tecnologia/internet. Tive experiência com *criação de landing pages em WordPress*, *gestão de e-commerce* e hoje meu foco é **exclusivamente** no *desenvolvimento de software*.
 
-- 🤟 Sou uma pessoa muito tranquila, respeitosa e comprometida.
+- 🤟 Sou uma pessoa muito **tranquila**, **respeitosa** e **comprometida**.
 - 🤓 Gosto de analisar, entender e pensar nas soluções, o que acredito ser o que me faz gostar tanto de programação.
 - 🔭 Falando sobre linguagens de programação, meu foco atual é **Javascript** e **Typescript**;
 - ⭐ Tenho cuidado em escrever códigos limpos e de fácil entendimento, com **HTML semântico** e **nomes de variáveis que façam sentido** no contexto;
@@ -28,11 +28,11 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 #### Principais conhecimentos de Front-end:
 - HTML e CSS;
 - React:
-  - Ciclo de vida dos componentes;
-  - Redux;
-  - ContextAPI;
-  - Consumo de API com fetch e axios;
-  - React Router.
+ - Ciclo de vida dos componentes;
+ - Redux;
+ - ContextAPI;
+ - Consumo de API com fetch e axios;
+ - React Router.
 
 #### Principais conhecimentos de Back-end:
 - Node.js;
@@ -48,18 +48,3 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
        src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark"
   />
 </div>
-
-<!--
-**matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
