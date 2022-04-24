@@ -42,7 +42,9 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 - Padrão MSC;
 - Autenticação JWT.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&layout=compact&theme=dracula&show_icons=true);
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&layout=compact&theme=dark&show_icons=true)
+
+![Matkaf Stats](https://github-readme-stats.vercel.app/api/wakatime?username=matkaf&theme=dark)
 
 
 <!--
