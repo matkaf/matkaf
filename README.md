@@ -26,6 +26,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=matkaf"/>
+
 #### Principais conhecimentos de Front-end:
 - HTML e CSS;
 - React:
@@ -36,6 +37,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
   - React Router.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf"/>
+
 #### Principais conhecimentos de Back-end:
 - Node.js;
 - Express;
