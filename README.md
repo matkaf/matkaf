@@ -25,13 +25,6 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-<img
-       align="left"
-       alt="linguagens-favoritas"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&theme=dark&show_icons=true"
-/>
-
 #### Principais conhecimentos de Front-end:
 - HTML e CSS;
 - React:
@@ -49,13 +42,11 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 - Padrão MSC;
 - Autenticação JWT.
 
-<a href="">
-  <img
-       align="center"
-       alt="estatisticas-github"
-       src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark"
-  />
-</a>
+<img
+     align="center"
+     alt="estatisticas-github"
+     src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark"
+/>
 
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
