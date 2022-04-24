@@ -12,10 +12,10 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 
 🙋‍♂️ **Quer conversar comigo?** Pode usar qualquer um dos links aqui embaixo:
 
-<a href="https://www.linkedin.com/in/matheus-kaffka/" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-kaffka/">
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wa.me/5555999552319" target="_blank" >
+<a href="https://wa.me/5555999552319">
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="mailto:matheus.kaffka@gmail.com">
@@ -32,6 +32,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Principais conhecimentos de Front-end:
+```
 - HTML e CSS;
 - React:
  - Ciclo de vida dos componentes;
@@ -39,18 +40,20 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
  - ContextAPI;
  - Consumo de API com fetch e axios;
  - React Router.
+```
 #### Principais conhecimentos de Back-end:
+```
 - Node.js;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
 - API's REST;
 - Padrão MSC;
 - Autenticação JWT.
-
-<!-- <div align="center"> -->
+```
+<div align="center">
   <img
        align="center"
        alt="estatisticas-github"
        src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
   />
-<!-- </div> -->
+</div>
