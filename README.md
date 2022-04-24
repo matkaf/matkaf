@@ -42,13 +42,13 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 - Padrão MSC;
 - Autenticação JWT.
 
-<div>
+<a href="#">
   <img
        align="center"
        alt="estatisticas-github"
        src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark"
   />
-</div>
+</a>
 
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
