@@ -5,9 +5,7 @@ Muito prazer, meu nome é Matheus Kaffka e eu sou Desenvolvedor Web Full Stack e
 Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e pensar nas soluções, o que acredito ser o que me faz gostar tanto de programação.
 
 - 🔭 Falando sobre linguagens de programação, meu foco atual é **Javascript** e **Typescript**;
-
 - ⭐ Tenho cuidado em escrever códigos limpos e de fácil entendimento, com **HTML semântico** e **nomes de variáveis que façam sentido** no contexto;
-
 - 🌱 Aprendendo mais sobre **Programação Orientada a Objetos** e **Docker**...
 
 **Quer conversar comigo?** Pode usar qualquer um dos links aqui embaixo:
@@ -26,7 +24,6 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Principais conhecimentos de **Front-end**:
-```
 - HTML e CSS;
 - React:
   - Ciclo de vida dos componentes;
@@ -34,17 +31,14 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
   - ContextAPI;
   - Consumo de API com fetch e axios;
   - React Router.
-```
 
 #### Principais conhecimentos de **Back-end**:
-```
 - Node.js;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
 - API's REST;
 - Padrão MSC;
-- Autenticação JWT
-```
+- Autenticação JWT.
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
