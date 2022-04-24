@@ -1,6 +1,4 @@
-## Opa, tudo tranquilo? 👋 <a href="https://www.linkedin.com/in/matheus-kaffka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:matheus.kaffka@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://wa.me/5555999552319">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+## Opa, tudo tranquilo? 👋 <a href="https://www.linkedin.com/in/matheus-kaffka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:matheus.kaffka@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="https://wa.me/5555999552319">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 Muito prazer, meu nome é Matheus Kaffka e eu sou Desenvolvedor Web Full Stack em formação pela [@betrybe](https://github.com/betrybe)! Sou formado como técnico em informática e trabalhei cerca de 03 anos na área. Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020), desde então, voltei completamente pro mundo da tecnologia/internet. Tive experiência com criação de landing pages em WordPress, gestão de e-commerce e hoje meu foco é exclusivamente no desenvolvimento de software.
 
