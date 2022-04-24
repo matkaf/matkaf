@@ -55,10 +55,10 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
   <img
        height="160em"
        alt="estatisticas-github"
-       src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"
+       src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=#0D1117&locale=pt-br"
   />
  <img
       height="160em"
       alt="linguagens-favoritas"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&layout=compact&theme=dark#hide_border=true&locale=pt-br"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&layout=compact&theme=dark&hide_border=true&bg_color=#0D1117&locale=pt-br"
 </div>
