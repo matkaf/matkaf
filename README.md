@@ -25,14 +25,6 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Principais conhecimentos de Front-end:
-- HTML e CSS;
-- React:
-  - Ciclo de vida dos componentes;
-  - Redux;
-  - ContextAPI;
-  - Consumo de API com fetch e axios;
-  - React Router.
 <span>
 <a href="">
   <img
@@ -42,6 +34,15 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
   />
 </a>
 </span>
+#### Principais conhecimentos de Front-end:
+- HTML e CSS;
+- React:
+  - Ciclo de vida dos componentes;
+  - Redux;
+  - ContextAPI;
+  - Consumo de API com fetch e axios;
+  - React Router.
+
 #### Principais conhecimentos de Back-end:
 - Node.js;
 - Express;
