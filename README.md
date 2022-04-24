@@ -33,6 +33,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
   - ContextAPI;
   - Consumo de API com fetch e axios;
   - React Router.
+<span>
 <a href="">
   <img
        align="center"
@@ -40,7 +41,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&theme=dark&show_icons=true"
   />
 </a>
-
+</span>
 #### Principais conhecimentos de Back-end:
 - Node.js;
 - Express;
