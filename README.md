@@ -44,7 +44,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&layout=compact&theme=dark&show_icons=true)
 
-![Matkaf Stats](https://github-readme-stats.vercel.app/api/wakatime?username=matkaf&theme=dark)
+![Matkaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark)
 
 
 <!--
