@@ -33,6 +33,9 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
   - ContextAPI;
   - Consumo de API com fetch e axios;
   - React Router.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username={matkaf}"/>
+
 #### Principais conhecimentos de Back-end:
 - Node.js;
 - Express;
@@ -40,6 +43,9 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 - API's REST;
 - Padrão MSC;
 - Autenticação JWT.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username={matkaf}"/>
+
 <!--
 **matkaf/matkaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
