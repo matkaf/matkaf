@@ -12,9 +12,13 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 
 🙋‍♂️ **Quer conversar comigo?** Pode usar qualquer um dos links aqui embaixo:
 
-<a target="_blank" href="https://www.linkedin.com/in/matheus-kaffka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a target="_blank" href="https://wa.me/5555999552319">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a target="_blank" href="mailto:matheus.kaffka@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/matheus-kaffka/" target="_blank">
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="https://wa.me/5555999552319" target="_blank" >
+ ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+</a>
+<a href="mailto:matheus.kaffka@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## Habilidades Técnicas:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
