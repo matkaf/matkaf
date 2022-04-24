@@ -1,8 +1,16 @@
 ## Opa, tudo tranquilo? 👋 
 
-Muito prazer, meu nome é Matheus Kaffka e eu sou Desenvolvedor Web Full Stack em formação pela [@betrybe](https://github.com/betrybe)! Sou formado como técnico em informática e trabalhei cerca de 03 anos na área. Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020), desde então, voltei completamente pro mundo da tecnologia/internet. Tive experiência com criação de landing pages em WordPress, gestão de e-commerce e hoje meu foco é exclusivamente no desenvolvimento de software.
+Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack** em formação pela [@betrybe](https://github.com/betrybe)!
 
-Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e pensar nas soluções, o que acredito ser o que me faz gostar tanto de programação.
+Sou formado como técnico em informática e trabalhei cerca de 03 anos na área;
+
+Minha graduação é em Direito e atuei como advogado até iniciar a pandemia (2020);
+
+Desde então, voltei completamente pro mundo da tecnologia/internet. Tive experiência com *criação de landing pages em WordPress*, *gestão de e-commerce* e hoje meu foco é **exclusivamente** no *desenvolvimento de software*.
+
+Sou uma pessoa muito tranquila, respeitosa e comprometida.
+
+Gosto de entender e pensar nas soluções, o que acredito ser o que me faz gostar tanto de programação.
 
 - 🔭 Falando sobre linguagens de programação, meu foco atual é **Javascript** e **Typescript**;
 - ⭐ Tenho cuidado em escrever códigos limpos e de fácil entendimento, com **HTML semântico** e **nomes de variáveis que façam sentido** no contexto;
@@ -23,7 +31,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Principais conhecimentos de **Front-end**:
+#### Principais conhecimentos de Front-end:
 - HTML e CSS;
 - React:
   - Ciclo de vida dos componentes;
@@ -32,7 +40,7 @@ Sou uma pessoa muito tranquila, respeitosa e comprometida. Gosto de entender e p
   - Consumo de API com fetch e axios;
   - React Router.
 
-#### Principais conhecimentos de **Back-end**:
+#### Principais conhecimentos de Back-end:
 - Node.js;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
