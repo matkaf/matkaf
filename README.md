@@ -25,11 +25,13 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
 <img
-       align="right"
+       align="left"
        alt="linguagens-favoritas"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&theme=dark&show_icons=true"
 />
+
 #### Principais conhecimentos de Front-end:
 - HTML e CSS;
 - React:
