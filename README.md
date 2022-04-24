@@ -43,10 +43,18 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 - Autenticação JWT.
 
 <a href="">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&theme=dark&show_icons=true)
+  <img
+       align="center"
+       alt="linguagens-favoritas"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matkaf&theme=dark&show_icons=true"
+  />
 </a>
 <a href="">
-![Matkaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark)
+  <img
+       align="center"
+       alt="estatisticas-github"
+       src="https://github-readme-stats.vercel.app/api?username=matkaf&show_icons=true&theme=dark"
+  />
 </a>
 
 <!--
