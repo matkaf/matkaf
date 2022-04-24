@@ -33,7 +33,6 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
   - ContextAPI;
   - Consumo de API com fetch e axios;
   - React Router.
-
 <a href="">
   <img
        align="center"
