@@ -49,6 +49,7 @@ Sou formado como técnico em informática e trabalhei cerca de 03 anos na área.
 - Node.js;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
+- ORM (Sequelize);
 - API's REST;
 - Padrão MSC;
 - Autenticação JWT.
