@@ -1,11 +1,11 @@
-## Opa, tudo tranquilo? 👋 
+<p align="center">
+ 
+  # Opa, tudo tranquilo? 👋
+ 
+  Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack** em formação pela [@betrybe](https://github.com/betrybe)!
+ 
+</p>
 
-Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack** em formação pela [@betrybe](https://github.com/betrybe)!
-
-- 🤟 Sou uma pessoa muito **tranquila**, **respeitosa** e **comprometida**.
-- 🔭 Falando sobre linguagens de programação, meu foco atual é **Javascript** e **Typescript**;
-- ⭐ Tenho cuidado em escrever códigos limpos e com respeito à **semântica**;
-- 🌱 Estou aprendendo mais sobre **Docker** e **testes unitários**...
 
 🙋‍♂️ **Quer conversar comigo?** Pode usar qualquer um dos links aqui embaixo:
 
@@ -19,7 +19,7 @@ Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack
  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-## Habilidades Técnicas:
+# Habilidades Técnicas:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,7 +31,7 @@ Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-#### Principais conhecimentos de Front-end:
+## Principais conhecimentos de Front-end:
 ```
 - HTML e CSS;
 - React:
@@ -41,12 +41,12 @@ Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack
  - Consumo de API com fetch e axios;
  - React Router.
 ```
-#### Principais conhecimentos de Back-end:
+## Principais conhecimentos de Back-end:
 ```
 - Node.js;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
-- ORM (Sequelize);
+- ORM's (Sequelize e Prisma);
 - API's REST;
 - Padrão MSC;
 - Autenticação JWT.
