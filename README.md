@@ -1,11 +1,6 @@
-<p align="center">
+# Opa, tudo tranquilo? 👋
  
-  # Opa, tudo tranquilo? 👋
- 
-  Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack** em formação pela [@betrybe](https://github.com/betrybe)!
- 
-</p>
-
+Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack** em formação pela [@betrybe](https://github.com/betrybe)!
 
 🙋‍♂️ **Quer conversar comigo?** Pode usar qualquer um dos links aqui embaixo:
 
