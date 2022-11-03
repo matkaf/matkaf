@@ -1,6 +1,6 @@
 # Opa, tudo tranquilo? 👋
  
-Muito prazer, meu nome é Matheus Kaffka e eu sou **Desenvolvedor Web Full Stack** em formação pela [@betrybe](https://github.com/betrybe)!
+Muito prazer, meu nome é Matheus Kaffka e, atualmente, trabalho como **Desenvolvedor de Software Back End** no Mercado Livre.
 
 🙋‍♂️ **Quer conversar comigo?** Pode usar qualquer um dos links aqui embaixo:
 
