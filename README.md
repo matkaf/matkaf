@@ -33,12 +33,14 @@ Muito prazer, meu nome é Matheus Kaffka e, atualmente, trabalho como **Desenvol
 ## Principais conhecimentos de Back-end:
 ```
 - Node.js;
+- Spring;
 - Express;
 - Banco de dados relacionais e não-relacionais (MySQL e Mongo);
 - ORM's (Sequelize e Prisma);
 - API's REST;
 - Padrão MSC;
-- Autenticação JWT.
+- Autenticação JWT;
+- Orientação a objetos.
 ```
 <div align="center">
   <a href="https://github.com/matkaf" />
